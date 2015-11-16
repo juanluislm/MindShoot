@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enabled</key>
+	<array>
+		<true/>
+		<true/>
+	</array>
+	<key>PathNames</key>
+	<array>
+		<string>assets/ scenes/splash.unity</string>
+		<string>assets/ level 1.unity</string>
+	</array>
+	<key>dashboard LastLocation</key>
+	<string>/Users/joe/webplayers/FPS_Tutorial/FPS_Tutorial.app.wdgt</string>
+	<key>standaloneOSX LastLocation</key>
+	<string>/Volumes/pRoJEctS/uNItY/basicFPS/FPS.app</string>
+	<key>standaloneOSXIntel LastLocation</key>
+	<string>/Users/rob/Downloads/FPS Tutorial-new/Unity Player.app</string>
+	<key>standaloneOSXPPC LastLocation</key>
+	<string>/Users/joe/Desktop/FPS Tutorial/fps.app</string>
+	<key>standaloneOSXUniversal LastLocation</key>
+	<string>/Users/rob/Projects/UniWii/FPS Tutorial-Wii/FPS_Wiimote.app</string>
+	<key>standaloneWin32 LastLocation</key>
+	<string>/Users/joe/webplayers/FPS_Tutorial/FPS_Tutorial</string>
+	<key>webplayer LastLocation</key>
+	<string>/Users/joe/webplayers/FPS_Tutorial/FPS_Tutorial.unityweb</string>
+</dict>
+</plist>

@@ -1,0 +1,3 @@
+All assets including models, textures, sounds and scripts are available for commercial and non-commercial use when used with a Unity. 
+
+OverTheEdge takes no responsibility for any harm done with the assets and scripts.

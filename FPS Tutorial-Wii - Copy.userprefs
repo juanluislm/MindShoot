@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Camera Scripts\MouseLook.cs">
+    <Files>
+      <File FileName="Assets\WeaponScripts\RocketLauncher.js" Line="13" Column="1" />
+      <File FileName="Assets\Standard Assets\Camera Scripts\MouseLook.cs" Line="196" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

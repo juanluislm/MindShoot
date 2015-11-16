@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Camera Scripts\MouseLook.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Camera Scripts\MouseLook.cs" Line="170" Column="60" />
+      <File FileName="Assets\Plugins\ThinkGearController.cs" Line="95" Column="1" />
+      <File FileName="Assets\RobotSpawner.cs" Line="26" Column="16" />
+      <File FileName="Assets\Scripts\StressTracker.cs" Line="34" Column="28" />
+      <File FileName="Assets\Scripts\ThinkGearGUI.js" Line="68" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
